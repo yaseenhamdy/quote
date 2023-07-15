@@ -1,0 +1,15 @@
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Short Stack', cursive;
+    font-size:80px;
+    margin:53.6px 0px  30px 0px;
+    font-weight:700;
+}
+p{
+    font-size:26px;
+    font-weight:400;
+    margin-bottom: 30px;
+}
+button:hover{
+    background-color:#FF305B !important;
+}
